@@ -3,7 +3,6 @@
 //  levenshtein-search-suggestions
 //
 //  Created by Denis Quaid on 18/01/2017.
-//  Copyright © 2017 THE-NET-A-PORTER GROUP. All rights reserved.
 //
 
 import UIKit
